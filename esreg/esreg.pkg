@@ -1,3 +1,26 @@
-D 'rcm': Regression control method (RCM) Use rcm With STATA 19
-F rcm.ado
-F rcm.sthlp
+D 'esreg': Endogenous switching regression with heterogeneous selection on gains Use esreg With STATA 19
+F _esreg_data.ado
+F _esreg_effects_post.ado
+F _esreg_esample.ado
+F _esreg_getest.ado
+F _esreg_ifcov.ado
+F _esreg_pwr.ado
+F esrcurve.ado
+F esrcurve.sthlp
+F esrdiag.ado
+F esrdiag.sthlp
+F esreg.ado
+F esreg.dlg
+F esreg.sthlp
+F esreg_engine.ado
+F esreg_examples.ado
+F esreg_lf1.ado
+F esreg_mata.ado
+F esreg_p.ado
+F esreg_postestimation.sthlp
+F esrmte.ado
+F esrmte.sthlp
+F esrreport.ado
+F esrreport.sthlp
+F esrtest.ado
+F esrtest.sthlp
