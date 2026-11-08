@@ -1,6 +1,8 @@
 # esreg
 Endogenous switching regression with heterogeneous selection on gains Use esreg With STATA 19
 
+https://www.youtube.com/watch?v=c8CazhB3njY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
